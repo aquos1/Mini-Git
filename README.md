@@ -1,2 +1,1 @@
 # Mini-Git
-# Mini-Git
